@@ -1,7 +1,7 @@
 # 💫 About Me:
 I’m a passionate MERN Stack developer, specializing in MongoDB, Express.js, React, and Node.js. I love building clean, efficient, and user‑friendly full‑stack applications — from REST APIs and database design to responsive, interactive front‑end interfaces. Always eager to learn, adapt, and build modern, impactful web solutions using the latest technologies.
 
-
+<img src="https://github.com/piyal007/piyal007/blob/main/dev-piyal.jpg"/>
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/piyal.islam.666) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_piyal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyal-islam) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/piyal-islam) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyalsha007@gmail.com) 
 
