@@ -16,6 +16,22 @@ I’m a passionate MERN Stack developer, specializing in MongoDB, Express.js, Re
 ---
 [![](https://visitcount.itsvg.in/api?id=piyal007&icon=0&color=3)](https://visitcount.itsvg.in)
 
+ A little more about me...  
+```javascript
+const piyal = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS, Python, Java],
+  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  techCommunities: {
+                        coorganizer: "AfroMern",
+                        speaker: "Latinity",
+                        mentor: "EducaTRANSforma"
+                      },
+ challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
+
   ## 💰 You can help me by Donating
   [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/piyal-islam) 
 
